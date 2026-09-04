@@ -21,3 +21,5 @@ npm run preview
 ## Live
 
 GitHub Pages: [https://vivekop1997.github.io/Bbq-Coin-tg-bot/](https://vivekop1997.github.io/Bbq-Coin-tg-bot/)
+
+Enable Pages once in the repo: **Settings → Pages → Source: GitHub Actions**. The deploy workflow on this branch will publish the production build.
