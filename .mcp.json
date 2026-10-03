@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "draw-it-mcp": {
+      "command": "node",
+      "args": ["/opt/node22/lib/node_modules/draw-it-mcp/src/mcp/drawing-mcp-server.js"]
+    }
+  }
+}
